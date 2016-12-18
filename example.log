@@ -1,0 +1,40 @@
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:Start of factorial(5)
+DEBUG:root:i is 1, total is 1
+DEBUG:root:i is 2, total is 2
+DEBUG:root:i is 3, total is 6
+DEBUG:root:i is 4, total is 24
+DEBUG:root:i is 5, total is 120
+DEBUG:root:End of program
+DEBUG:root:Start of factorial(5)
+DEBUG:root:i is 1, total is 1
+DEBUG:root:i is 2, total is 2
+DEBUG:root:i is 3, total is 6
+DEBUG:root:i is 4, total is 24
+DEBUG:root:i is 5, total is 120
+DEBUG:root:End of program
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64307/hub/session {"requiredCapabilities": {}, "desiredCapabilities": {"binary": "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe", "javascriptEnabled": true, "firefox_profile": "UEsDBBQAAAAIAIuokUlzE2597wMAAOsOAAAHAAAAdXNlci5qc51XTW/bOBC9F9j/UOS0BWoiadpL95SmKbBA0SxqBDkSFDmyGFMklx9W/O93SFmI7ZiiszdR4pAzb968GUUPjloH7Z8XggXmwBoXpF4Ra5TkW5JeLmPTS++l0f/klzecgw0gLj6+b5ny8OGvP97FvXNMT3r2THnnTA/UcydtoC5qGmQPaHR9eWQxQCOc3OAaNGsUUM0CLilsQAePFsHF41uCMWotA9EQBuPWPdNsBY4I6dMJp2088Ohk2JKBOU03EgaMlPbyGQTxnRmo0RwKUT2xDRtDIcYGxMJnk7/1LT6a0o3wHED7vDtaxBLIGGEJu0MPMXpwycUB2Lpg0Tgz4IrcPfy8IdeEveTmhDvM2vP8mNANoKCH4LbEwRPw4sGTFx6Y493ujorHnrWQnxPdeqYw5Jpbu2STLgSbOLbgRmt0KwG8sOAWuBVphNZXxxw7RFYB2yRg81uoJv+wNDpgKnTjmqQbJQfSSufD76gLJ7xQnHkfsSyiRhg9AkqxtGL2eQ5XvD9ESyySHHe+JbhzeGPQMSdFgcTT1sAan2+41/cWSpG+UCFLhg8GAXaQg25RESh3zHcF49f1ok2Q7fbBZ4RmS4Z7u6NPxbMkUFj5wgxExN7ucW6+gnkHfH1reovq1EiV7tRy1QW1rUGxy16HerjL4AVrTAxfG8X0+qJgpjB+h7pZKYpJb88Q2mNHUFgUTyIdnao4JWCTRMETdMk4PorePHQzclsBzLStkrqUx7koCBNCJj1gtYAOtMR20nfbRfpssUAXCvQqJJJ++vKl3Ahmo7fIdRt8qhraG8FULY1ljVFmtUovd6jfzZ5zUl7nr362EuuUKUW8XGHvRdXwWLL/Runq13SAdrk0vkPLogrfxi9v63CzWvW6G721e43JyAafiqowaGWYINMokZrCYwd6meiGPs6U327qoAZlkYqYI0pnVbBDjq9Jtkkq40bOlvzTMCCVEt//P5GmZnXmENJKBfiE+uUkD9Q4iTSk42RYCc0BEwlUCHlq+JG64w16xM+YlBpl+FpJH86cBsaELXaisUAmh+jfDk60KWXzxbXn5VSUsyKwN3CxGEwJcKw6oxGzHvoG3DIvSxHMjIjVOeY18ZBVYys8wby9YJPz30eSLzka+lMj1iFTSb2nzGpBfSjDwhtTR1G66JPHKkrDrxyxO5GNF50bOonikChWkbm9uS1P1ntzGwdX+jk5MTHdKuOLDe0AB59+twJFV+c08Yy/tXkqT+WCFMX8KoVgN1sqRg2vNPRJGI4V4bo4C6rWRzuW2UiL0tCDr8S9fsyc9FeXRCLe5uH3zzNnJlRiq9gWxN3V5fIXzo6ZPp/T7v8AUEsBAhQAFAAAAAgAi6iRSXMTbn3vAwAA6w4AAAcAAAAAAAAAAAAAALaBAAAAAHVzZXIuanNQSwUGAAAAAAEAAQA1AAAAFAQAAAAA", "args": [], "platform": "ANY", "browserName": "firefox", "version": "", "marionette": false}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64307/hub/session/dccba6bb-f5b9-478b-b38a-d13789247403/url {"url": "http://worldserver9.amazon.com/ws/assignments_projects?&token=2075437834", "sessionId": "dccba6bb-f5b9-478b-b38a-d13789247403"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64307/hub/session/dccba6bb-f5b9-478b-b38a-d13789247403/url {"url": "http://worldserver9.amazon.com/ws/assignments_tasks?&token=2075437834&project=626027", "sessionId": "dccba6bb-f5b9-478b-b38a-d13789247403"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64307/hub/session/dccba6bb-f5b9-478b-b38a-d13789247403/element {"using": "link text", "sessionId": "dccba6bb-f5b9-478b-b38a-d13789247403", "value": "View scoping information"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64307/hub/session/dccba6bb-f5b9-478b-b38a-d13789247403/element {"using": "link text", "sessionId": "dccba6bb-f5b9-478b-b38a-d13789247403", "value": "View scoping information..."}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64307/hub/session/dccba6bb-f5b9-478b-b38a-d13789247403/url {"url": "http://worldserver9.amazon.com/ws/assignments_project_info_scope?&token=2075437834&project=626027", "sessionId": "dccba6bb-f5b9-478b-b38a-d13789247403"}
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64307/hub/session/dccba6bb-f5b9-478b-b38a-d13789247403/url {"url": "http://worldserver9.amazon.com/ws/assignments_project_info_scope?&token=2075437834&project=626027", "sessionId": "dccba6bb-f5b9-478b-b38a-d13789247403"}
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:55624/hub/session {"requiredCapabilities": {}, "desiredCapabilities": {"binary": "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe", "javascriptEnabled": true, "firefox_profile": "UEsDBBQAAAAIAN2skUlzE2597wMAAOsOAAAHAAAAdXNlci5qc51XTW/bOBC9F9j/UOS0BWoiadpL95SmKbBA0SxqBDkSFDmyGFMklx9W/O93SFmI7ZiiszdR4pAzb968GUUPjloH7Z8XggXmwBoXpF4Ra5TkW5JeLmPTS++l0f/klzecgw0gLj6+b5ny8OGvP97FvXNMT3r2THnnTA/UcydtoC5qGmQPaHR9eWQxQCOc3OAaNGsUUM0CLilsQAePFsHF41uCMWotA9EQBuPWPdNsBY4I6dMJp2088Ohk2JKBOU03EgaMlPbyGQTxnRmo0RwKUT2xDRtDIcYGxMJnk7/1LT6a0o3wHED7vDtaxBLIGGEJu0MPMXpwycUB2Lpg0Tgz4IrcPfy8IdeEveTmhDvM2vP8mNANoKCH4LbEwRPw4sGTFx6Y493ujorHnrWQnxPdeqYw5Jpbu2STLgSbOLbgRmt0KwG8sOAWuBVphNZXxxw7RFYB2yRg81uoJv+wNDpgKnTjmqQbJQfSSufD76gLJ7xQnHkfsSyiRhg9AkqxtGL2eQ5XvD9ESyySHHe+JbhzeGPQMSdFgcTT1sAan2+41/cWSpG+UCFLhg8GAXaQg25RESh3zHcF49f1ok2Q7fbBZ4RmS4Z7u6NPxbMkUFj5wgxExN7ucW6+gnkHfH1reovq1EiV7tRy1QW1rUGxy16HerjL4AVrTAxfG8X0+qJgpjB+h7pZKYpJb88Q2mNHUFgUTyIdnao4JWCTRMETdMk4PorePHQzclsBzLStkrqUx7koCBNCJj1gtYAOtMR20nfbRfpssUAXCvQqJJJ++vKl3Ahmo7fIdRt8qhraG8FULY1ljVFmtUovd6jfzZ5zUl7nr362EuuUKUW8XGHvRdXwWLL/Runq13SAdrk0vkPLogrfxi9v63CzWvW6G721e43JyAafiqowaGWYINMokZrCYwd6meiGPs6U327qoAZlkYqYI0pnVbBDjq9Jtkkq40bOlvzTMCCVEt//P5GmZnXmENJKBfiE+uUkD9Q4iTSk42RYCc0BEwlUCHlq+JG64w16xM+YlBpl+FpJH86cBsaELXaisUAmh+jfDk60KWXzxbXn5VSUsyKwN3CxGEwJcKw6oxGzHvoG3DIvSxHMjIjVOeY18ZBVYys8wby9YJPz30eSLzka+lMj1iFTSb2nzGpBfSjDwhtTR1G66JPHKkrDrxyxO5GNF50bOonikChWkbm9uS1P1ntzGwdX+jk5MTHdKuOLDe0AB59+twJFV+c08Yy/tXkqT+WCFMX8KoVgN1sqRg2vNPRJGI4V4bo4C6rWRzuW2UiL0tCDr8S9fsyc9FeXRCLe5uH3zzNnJlRiq9gWxN3V5fIXzo6ZPp/T7v8AUEsBAhQAFAAAAAgA3ayRSXMTbn3vAwAA6w4AAAcAAAAAAAAAAAAAALaBAAAAAHVzZXIuanNQSwUGAAAAAAEAAQA1AAAAFAQAAAAA", "args": [], "platform": "ANY", "browserName": "firefox", "version": "", "marionette": false}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:55624/hub/session/2e275b89-872a-4737-bd27-67f681ee4a7e/url {"url": "http://worldserver9.amazon.com/ws/assignments_project_info_scope?&project=626027&token=427205387", "sessionId": "2e275b89-872a-4737-bd27-67f681ee4a7e"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:55624/hub/session/2e275b89-872a-4737-bd27-67f681ee4a7e/element {"using": "css selector", "sessionId": "2e275b89-872a-4737-bd27-67f681ee4a7e", "value": "a.button:nth-child(1)"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:55624/hub/session/2e275b89-872a-4737-bd27-67f681ee4a7e/element/{8794ede3-b880-4cc8-8387-4a93cfd86d35}/click {"sessionId": "2e275b89-872a-4737-bd27-67f681ee4a7e", "id": "{8794ede3-b880-4cc8-8387-4a93cfd86d35}"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request

@@ -1,0 +1,5 @@
+D:\csvScope\607219Trisoft_it_IT_AGS_Tier2_rmaharaj_095_scope_info_it_IT.csv
+ Total,40371,13168
+ Total,40371,13168
+D:\csvScope\602802Trisoft_es_MX_SEDIT-3568_scope_info_es_MX.csv
+ Total,37298,183

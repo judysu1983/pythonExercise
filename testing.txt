@@ -1,0 +1,19 @@
+
+#asset download url
+http://worldserver9.amazon.com/ws/download_assets?&aisCF=%2Fsamples%2F<clinet>%2FProjects&aisSP=%2F<project gourp ID +projectname>&token=468803994
+http://worldserver9.amazon.com/ws/download_assets?&aisCF=%2Fsamples%2Ftam+-+soafba%2FProjects&aisSP=%2F541676_Non-AGS%28non-zh%29_Localization_Week+32_Others_Sedit-546&token=374964000
+http://worldserver9.amazon.com/ws/download_assets?&aisCF=%2Fsamples%2Ftam+-+soafba%2FProjects&aisSP=%2F541676_Non-AGS%28non-zh%29_Localization_Week+32_Others_Sedit-546&token=374964000
+baseurl:
+http://worldserver9.amazon.com/ws/download_assets?&aisCF=
+
+/samples/tam - soafba/Projects/541676_Non-AGS(non-zh)_Localization_Week 32_Others_Sedit-546/Source-English/
+
+lib.quoted 
+/samples/tam%20-%20soafba/Projects/541676_Non-AGS%28non-zh%29_Localization_Week%2032_Others_Sedit-546/Source-English/SEDIT-546-SA.html../Target-Italian/SEDIT-546-SA.html
+
+re. search and replace and trimed
+%2Fsamples%2Ftam+-+soafba%2FProjects%2F541676_Non-AGS%28non-zh%29_Localization_Week%2032_Others_Sedit-546
+
+
+
+http://worldserver9.amazon.com/ws/download_assets?&aisCF=%2Fsamples%2Ftam+-+soafba%2FProjects%2F541676_Non-AGS%28non-zh%29_Localization_Week%2032_Others_Sedit-546&token=374964000
